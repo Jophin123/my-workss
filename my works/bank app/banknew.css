@@ -1,0 +1,19 @@
+#img{
+    .img-fluid. max-width: 100%;
+    height: auto;
+}
+.nav nav-tabs{
+    background-color: rgb(#7952b3)
+}
+#login{
+    margin-top: 100px;
+}
+#item{
+    background-color: grey;
+}
+#nav-tabs{
+    background-color: grey;
+}
+h2{
+    margin-top: 10px;
+}
